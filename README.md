@@ -1,0 +1,2 @@
+# PDF-Chatbot
+This project is a Python application called PDF Chatbot which merges text extraction, document analysis, language translation, and email automation.This comprehensive system is tailored to enhance the efficiency of handling PDF documents. Users can effortlessly upload files, extract text using Chroma DB, pose targeted questions, and receive accurate language translations, all within an efficient workflow.
